@@ -1,0 +1,1 @@
+schtasks /create /xml ".\logout.xml" /tn "autologout"
